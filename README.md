@@ -1,2 +1,4 @@
 # xml-validate
-A simple notebook for validating XML files
+A simple Jupyter notebook for validating XML files written in Python
+
+Notebook author: Wolfgang Barth
